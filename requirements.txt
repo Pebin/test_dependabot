@@ -6,13 +6,13 @@
 #
 anyio==3.5.0
     # via starlette
-fastapi==0.74.0
+fastapi==0.75.2
     # via -r requirements.in
 idna==3.3
     # via anyio
 pydantic==1.9.0
     # via fastapi
-sniffio==1.0.0
+sniffio==1.2.0
     # via anyio
 starlette==0.17.1
     # via fastapi
