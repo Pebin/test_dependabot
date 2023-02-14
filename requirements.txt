@@ -6,7 +6,7 @@
 #
 anyio==3.5.0
     # via starlette
-fastapi==0.75.2
+fastapi==0.92.0
     # via -r requirements.in
 idna==3.3
     # via anyio
@@ -14,7 +14,7 @@ pydantic==1.9.0
     # via fastapi
 sniffio==1.2.0
     # via anyio
-starlette==0.17.1
+starlette==0.25.0
     # via fastapi
 typing-extensions==4.2.0
     # via pydantic
